@@ -1,0 +1,7 @@
+/* Anonymous Checkout Style */
+
+.memberdeck form .center .checklist input[type=checkbox] {
+	position: relative;
+	top: 0;
+	left: 0;
+}

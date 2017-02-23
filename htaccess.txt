@@ -1,0 +1,6 @@
+AuthUserFile /srv/data/web/vhosts/w4.geniux.studio/htdocs/.htpasswd
+AuthName "Restricted Access"
+AuthType Basic
+<limit GET>
+require valid-user
+</Limit> 

@@ -1,0 +1,7 @@
+Europe|europe
+Amérique|amerique
+Afrique|afrique
+Asie|asie
+Amérique du sud|ameriquesud
+Océanie|oceanie
+Antarctic|antarctic

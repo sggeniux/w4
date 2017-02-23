@@ -1,0 +1,2 @@
+EUR=&euro;
+USD=&dollar;

@@ -1,0 +1,8 @@
+{
+  "title":"Secupay",
+  "short_desc":"Integrates with Secupay for basic credit card processing",
+  "doclink":"",
+  "status":"test",
+  "type":"module",
+  "requires": "idc"
+}
