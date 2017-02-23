@@ -29,6 +29,9 @@ $prefix = idf_get_querystring_prefix();
 
 
 global $project_single;
+
+
+$hDeck->pledges = count($project_single->get_backers($project_id));
 ?>
 
 <article class="project-details">
